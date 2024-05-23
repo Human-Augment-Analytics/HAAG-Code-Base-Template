@@ -2,7 +2,7 @@
 
 The code base requirements are the following:
 
-A personal folders section that is designed solely for grading purposes. Currently, copy or link to your code in the separate repository https://github.com/Human-Augment-Analytics/CS-8903-Weekly-Code-Submissions.
+A personal folders section that is designed solely for grading purposes. For the first week, we copied or linked our code in a separate repository. Currently, I think it is okay to simply use your project repo and then link to the specific files you worked on that week in your report.
 
 Each project needs to have its own repo that is (1) public and (2) part of this organization.
 
